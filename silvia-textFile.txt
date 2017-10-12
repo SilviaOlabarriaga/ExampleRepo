@@ -1,4 +1,0 @@
-this is a test file created interactively by Silvia
-
-line 1
-line 2
