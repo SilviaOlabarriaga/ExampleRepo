@@ -1,0 +1,29 @@
+[Header],,,,,,,,,,,,,,
+IEMFileVersion,4,,,,,,,,,,,,,
+Investigator Name,Josephine Oryszczyn,,,,,,,,,,,,,
+Experiment Name,Experiment JO,,,,,,,,,,,,,
+Date,10-12-2017,,,,,,,,,,,,,
+Platform,Illumina MiSeq,,,,,,,,,,,,,
+Action,ingest,,,,,,,,,,,,,
+Workflow,GenerateFASTQ,,,,,,,,,,,,,
+Application,FASTQ Only,,,,,,,,,,,,,
+Assay,Nextera XT v2,,,,,,,,,,,,,
+Description,RNA,,,,,,,,,,,,,
+Chemistry,Amplicon,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+[Reads],,,,,,,,,,,,,,
+301,,,,,,,,,,,,,,
+301,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+[Settings],,,,,,,,,,,,,,
+ReverseComplement,0,,,,,,,,,,,,,
+Adapter,CTGTCTCTTATACACATCT,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+[Data],,,,,,,,,,,,,,
+Sample_ID,Sample_Name,Sample_Plate,Sample_Well,I7_Index_ID,index,I5_Index_ID,index2,Sample_Project,Species,Chain,Sample_Description,Reference,Nr_Lanes,Nr_Plates
+twin2A-bcr-memory,twin2A-bcr-memory,,,,,,,JEO1,homo sapiens,BCRb,memory B cell,JEO,1,1
+twin2A-bcr-naive,twin2A-bcr-naive,,,,,,,JEO2,homo sapiens,BCRb,naive B cell,JEO,1,1
+twin2A-tcrb-memory-cd4,twin2A-tcrb-memory-cd4,,,,,,,JEO3,homo sapiens,TCRb,CD4+ memory T cell,JEO,1,1
+twin2A-tcrb-memory-cd8,twin2A-tcrb-memory-cd8,,,,,,,JEO4,homo sapiens,TCRb,CD8+ memory T cell,JEO,1,1
+twin2A-tcrb-naive-cd4,twin2A-tcrb-naive-cd4,,,,,,,JEO5,homo sapiens,TCRb,CD4+ naive T cell,JEO,1,1
+twin2A-tcrb-naive-cd8,twin2A-tcrb-naive-cd8,,,,,,,JEO6,homo sapiens,TCRb,CD8+ naive T cell,JEO,1,1
